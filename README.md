@@ -214,4 +214,4 @@ CA Backup and Migration is available as a full free version, providing all featu
 Take control of your data with CA Backup and Migration today! Download now for a **safe download** and experience the convenience of backing up and sharing your files effortlessly.
 
 ---
-**Last updated:** 2026-10-02 20:26:37 UTC
+**Last updated:** 2026-10-03 00:13:35 UTC
